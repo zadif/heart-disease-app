@@ -1,0 +1,304 @@
+Sex,ChestPain,ExerciseAngina,STSlope,HeartDisease
+Male,Typical angina,No,Downsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Downsloping,No
+Female,Atypical angina,No,Upsloping,No
+Male,Atypical angina,No,Upsloping,No
+Female,Asymptomatic,No,Downsloping,Yes
+Female,Asymptomatic,Yes,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Asymptomatic,No,Flat,No
+Female,Atypical angina,No,Flat,No
+Male,Non-anginal pain,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Atypical angina,No,Downsloping,Yes
+Male,Asymptomatic,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Atypical angina,No,Upsloping,No
+Male,Typical angina,Yes,Flat,No
+Female,Typical angina,No,Upsloping,No
+Male,Atypical angina,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Non-anginal pain,No,Flat,No
+Female,Non-anginal pain,No,Upsloping,No
+Female,Typical angina,No,Downsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Typical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Non-anginal pain,No,Upsloping,Yes
+Male,Asymptomatic,No,Flat,No
+Male,Non-anginal pain,Yes,Upsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,Yes,Flat,No
+Female,Asymptomatic,No,Flat,Yes
+Male,Typical angina,Yes,Upsloping,No
+Female,Atypical angina,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Female,Asymptomatic,No,Upsloping,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Non-anginal pain,No,Downsloping,No
+Female,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Non-anginal pain,No,Downsloping,No
+Male,Typical angina,Yes,Upsloping,No
+Female,Asymptomatic,Yes,Flat,Yes
+Female,Non-anginal pain,Yes,Downsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Atypical angina,No,Flat,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Asymptomatic,Yes,Flat,No
+Female,Asymptomatic,No,Flat,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Non-anginal pain,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Female,Asymptomatic,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,No
+Female,Asymptomatic,No,Downsloping,Yes
+Male,Non-anginal pain,No,Flat,No
+Female,Non-anginal pain,No,Flat,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Asymptomatic,No,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Male,Typical angina,No,Upsloping,No
+Female,Asymptomatic,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Non-anginal pain,No,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,No,Flat,Yes
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Typical angina,No,Flat,No
+Female,Asymptomatic,Yes,Flat,Yes
+Female,Non-anginal pain,No,Flat,Yes
+Male,Atypical angina,No,Flat,No
+Male,Non-anginal pain,No,Upsloping,No
+Female,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Upsloping,Yes
+Female,Asymptomatic,No,Flat,Yes
+Male,Non-anginal pain,Yes,Flat,No
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Typical angina,No,Flat,Yes
+Female,Atypical angina,No,Flat,No
+Female,Asymptomatic,Yes,Downsloping,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Female,Asymptomatic,No,Upsloping,No
+Male,Non-anginal pain,No,Flat,No
+Male,Non-anginal pain,Yes,Upsloping,No
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,No
+Female,Non-anginal pain,No,Flat,No
+Female,Atypical angina,No,Flat,No
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Atypical angina,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Flat,No
+Male,Atypical angina,Yes,Upsloping,No
+Male,Typical angina,No,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Non-anginal pain,Yes,Flat,Yes
+Male,Non-anginal pain,Yes,Flat,No
+Male,Non-anginal pain,No,Upsloping,Yes
+Male,Asymptomatic,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Atypical angina,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Typical angina,No,Flat,No
+Female,Asymptomatic,No,Flat,No
+Female,Non-anginal pain,No,Flat,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Asymptomatic,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Female,Non-anginal pain,No,Flat,No
+Female,Asymptomatic,No,Flat,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Female,Atypical angina,Yes,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Female,Atypical angina,No,Flat,No
+Male,Non-anginal pain,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Upsloping,No
+Female,Asymptomatic,Yes,Flat,Yes
+Female,Asymptomatic,No,Flat,No
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Typical angina,No,Upsloping,No
+Male,Typical angina,No,Downsloping,No
+Female,Asymptomatic,No,Upsloping,Yes
+Female,Atypical angina,No,Upsloping,No
+Male,Non-anginal pain,No,Downsloping,No
+Male,Atypical angina,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Asymptomatic,No,Flat,Yes
+Female,Non-anginal pain,No,Flat,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Typical angina,No,Flat,No
+Female,Asymptomatic,Yes,Flat,No
+Female,Atypical angina,No,Upsloping,No
+Male,Typical angina,No,Upsloping,Yes
+Female,Asymptomatic,No,Upsloping,No
+Female,Asymptomatic,Yes,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Female,Asymptomatic,Yes,Flat,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Typical angina,Yes,Flat,Yes
+Male,Non-anginal pain,No,Flat,No
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Typical angina,No,Flat,No
+Female,Atypical angina,No,Upsloping,No
+Female,Asymptomatic,Yes,Flat,No
+Female,Asymptomatic,No,Flat,No
+Male,Asymptomatic,No,Upsloping,No
+Female,Non-anginal pain,Yes,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Asymptomatic,Yes,Flat,Yes
+Female,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Upsloping,Yes
+Female,Non-anginal pain,No,Flat,No
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,Yes
+Female,Atypical angina,Yes,Upsloping,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Female,Atypical angina,No,Flat,No
+Male,Atypical angina,No,Upsloping,No
+Male,Atypical angina,No,Upsloping,No
+Female,Atypical angina,No,Upsloping,No
+Female,Asymptomatic,No,Upsloping,No
+Male,Typical angina,No,Flat,Yes
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,No
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,No
+Female,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,No,Flat,No
+Female,Non-anginal pain,No,Flat,No
+Female,Asymptomatic,No,Upsloping,No
+Female,Non-anginal pain,No,Flat,No
+Male,Atypical angina,No,Upsloping,No
+Male,Atypical angina,No,Upsloping,Yes
+Female,Non-anginal pain,No,Flat,No
+Female,Atypical angina,No,Upsloping,Yes
+Female,Typical angina,No,Upsloping,No
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Flat,Yes
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Male,Asymptomatic,Yes,Upsloping,Yes
+Male,Asymptomatic,No,Upsloping,No
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Asymptomatic,No,Flat,No
+Male,Typical angina,No,Upsloping,Yes
+Male,Typical angina,No,Flat,No
+Female,Non-anginal pain,No,Flat,No
+Female,Non-anginal pain,No,Flat,No
+Male,Atypical angina,No,Upsloping,Yes
+Female,Asymptomatic,No,Flat,No
+Male,Asymptomatic,Yes,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,No,Upsloping,Yes
+Male,Asymptomatic,No,Downsloping,Yes
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Atypical angina,No,Flat,No
+Male,Atypical angina,No,Upsloping,No
+Male,Atypical angina,No,Downsloping,No
+Male,Non-anginal pain,No,Flat,Yes
+Female,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,Yes,Downsloping,Yes
+Male,Asymptomatic,Yes,Upsloping,Yes
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Atypical angina,No,Upsloping,No
+Male,Asymptomatic,No,Flat,Yes
+Female,Asymptomatic,Yes,Flat,Yes
+Male,Typical angina,No,Flat,Yes
+Male,Asymptomatic,No,Flat,Yes
+Male,Asymptomatic,Yes,Flat,Yes
+Female,Atypical angina,No,Flat,Yes
+Male,Non-anginal pain,No,Upsloping,No
